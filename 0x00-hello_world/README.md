@@ -1,0 +1,1 @@
+In this project we get our first hands on experience coding in C.
