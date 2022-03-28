@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * main - This function prints the sizes of various data types 
+ * main - This function prints the sizes of various data types
  on the computer it is compiled and run on.
  * void - no parameter value
  * Return : 0
